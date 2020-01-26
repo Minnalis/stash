@@ -1,0 +1,4 @@
+osea total yasabes 
+touch nombrearchivo - extension de archivo
+
+:w
